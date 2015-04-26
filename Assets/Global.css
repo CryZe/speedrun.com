@@ -4,7 +4,8 @@ html, body {
 }
 
 html, body, button, input, select, textarea {
-	font: 14px tahoma;
+	font-size: 14px;
+	font-family: Tahoma,Verdana,Segoe,sans-serif;
 }
 
 button, input, select, textarea {
